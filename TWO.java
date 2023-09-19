@@ -10,6 +10,20 @@ public class HelloWorld {
             System.out.println("else block");
             System.out.println("else block");
 			System.out.println("i == " + i);
-        }
+        } else{
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+			System.out.println("지윤님바보");
+
+
+		}
     }
 }
